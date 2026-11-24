@@ -26,6 +26,14 @@ Older kids (`ages 7–11`) spot flat mobile "Santa sticker" apps immediately bec
 
 These framing and lighting checks are maintained alongside **[SantaCam (catchsantainmyhouse.com)](https://catchsantainmyhouse.com/)**, a browser tool that generates scene-matched Night-Cam color captures, monochrome [Infrared Night-Vision camera proof](https://catchsantainmyhouse.com/catch-santa-on-camera), [Front-Door Video Doorbell captures](https://catchsantainmyhouse.com/front-door-santa-camera), and [5-second Caught-on-Camera motion clips](https://catchsantainmyhouse.com/caught-santa-on-camera-video) from one photo of your own room. A parent setup walkthrough is also available at [How to Catch Santa on Camera](https://catchsantainmyhouse.com/how-to-catch-santa-on-camera).
 
+## Photo vs Night-Vision Video Options (2026 Quick Comparison)
+
+| Approach | Uses Your Actual Room Photo? | Output Format | Preview Before Paying? | Billing & Retention |
+| :--- | :--- | :--- | :--- | :--- |
+| **[SantaCam (catchsantainmyhouse.com)](https://catchsantainmyhouse.com/)** | **Yes** (preserves exact furniture, tree & ornaments) | **Both HD Still Photo ($4.99) & 5s Security-Cam Video ($9.99)** (2500K night-cam or 850nm IR monochrome) | **Yes** ([Free watermarked preview](https://catchsantainmyhouse.com/free)) | **One-time pack** (no subscription); **24-hour auto-deletion** |
+| **Personalized Santa Message Sites** | No (studio North Pole set) | Spoken greeting video | Short free preview | Annual pass / subscription |
+| **Mobile Cutout Sticker Apps** | Manual sticker drag-and-drop | Flat static sticker | Watermarked | In-app sticker packs |
+
 ## License
 
 Text and tables are released under [CC BY 4.0](LICENSE). Share and adapt with attribution.
